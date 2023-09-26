@@ -3,6 +3,8 @@
 
 ### Welcome to the Machine Learning Image Classification repository! This project aims to provide a comprehensive solution for image classification using state-of-the-art machine learning techniques. Whether you're a seasoned data scientist or a beginner looking to explore the world of computer vision, this repository is designed to help you get started with image classification tasks.
 
+### This repository contains the code and resources for a comprehensive image classification project using machine learning techniques. Whether you're a beginner looking to get started with image classification or an experienced data scientist exploring new approaches, this project is designed to assist you in your journey.
+
 ## Table of Contents
 ### Introduction
 ### Getting Started
@@ -56,4 +58,5 @@
 
 
 ## Download Link:
+### Download dataset from the link
 ### https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD
