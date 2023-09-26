@@ -23,7 +23,7 @@
 ### To get started with this project, follow these steps:
 
 ### 1.Clone the Repository: Clone this repository to your local machine using Git.
-### git clone https://github.com/your-username/Pixel-Proficiency-Mastering-Image-Classification-with-Machine-Learning.git
+### git clone https://github.com/<your-username>/Pixel-Proficiency-Mastering-Image-Classification-with-Machine-Learning.git
 
 ### 2.Setup Environment: Create a Python environment and install the required dependencies. You can use virtual environments or tools like Conda.
 ### pip install -r requirements.txt
